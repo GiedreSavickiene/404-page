@@ -11,7 +11,7 @@ This project is for **educational** porpuses only. Pull request are welcome, but
 
 Site published at:  https://giedresavickiene.github.io/404-page/
 
-Design: [404](https://www.vecteezy.com/vector-art/2304030-landing-page-design-concept-of-404-error-page-not-found-with-people-trying-to-fix-error-on-a-web-page-near-big-symbol-404-vector-illustration)
+Design: [404](https://www.dreamstime.com/page-error-illustration-people-design-can-be-used-websites-landing-pages-ui-mobile-applications-posters-banner-image165836235)
 
 
 ## Project features

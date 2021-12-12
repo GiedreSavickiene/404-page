@@ -3,41 +3,95 @@ body{
 }
 main{
     display: inline-block;
-    width: 800px;
-    margin-left: calc((100% - 800px) / 2);
+    width: 1000px;
+    margin-left: calc((100% - 1000px) / 2);
+    
    }
 
 header{
        margin-top: 15px;
        
+       
    }
 header > img{
     float: left;
-    
+    color: #100259;
+        
 }
 
 nav{
     float: right;
-    
+   
 }
 
 a{
     text-decoration: none;
-    padding-left: 45px;
+    padding: 7px;
+    padding-left: 25px;
     font-size: 12px;
     line-height: 45px;
+    padding-right: 25px;
+    color: black;
     
+}
+
+section{
+    display: inline-block;
+    width: 100%;
 }
 
 div{
     margin-top: 200px;
+    width: 40%;
+    float: left;
 }
 
-nav a:last-child{}
+nav a:last-child{
+    background-color: #180069;
+    color: white;
+    text-transform: uppercase;
+    border-radius: 15px;
+    border-color: black;
 
-div > p > span{}
+}
 
-div > a {}
+.firstp{
+   font-weight: bolder;
+   font-size: 45px;
+   color: #160355;
+   margin-top: 0%;
+   margin-bottom: 0%;
 
-section > img{}
+   
+   
+}
+.secondp {
+    font-size: 45px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    
+
+}
+.lorem{
+    font-size: 10px;
+    margin-bottom: 70px;
+}
+
+    
+
+div > a {
+    background-color: orange;
+    text-transform: uppercase;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    
+}
+
+section > img{
+    float: right;
+    width: 60%;
+    margin-top: 140px;
+}
 
